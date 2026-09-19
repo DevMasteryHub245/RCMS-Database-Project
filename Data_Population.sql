@@ -1,8 +1,6 @@
 -- ============================================================
 -- Data_Population.sql
 -- Restaurant Chain Management System
--- Introduction to Database Systems - BSSE, IIUI-ISB
--- Submitted To: Shakeel Ahmad
 -- *** Converted for Oracle 10g ***
 -- ============================================================
 -- NOTE: Run Schema_Design.sql before this file.
