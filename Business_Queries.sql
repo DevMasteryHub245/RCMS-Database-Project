@@ -1,8 +1,6 @@
 -- ============================================================
 -- Business_Queries.sql
 -- Restaurant Chain Management System
--- Introduction to Database Systems - BSSE, IIUI-ISB
--- Submitted To: Shakeel Ahmad
 -- *** Converted for Oracle 10g ***
 -- ============================================================
 -- Contains: 10 Business Queries + 1 View + 2 Triggers
